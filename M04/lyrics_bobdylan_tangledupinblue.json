@@ -1,0 +1,2291 @@
+{
+ "_type": "song",
+ "annotation_count": 35,
+ "api_path": "/songs/118799",
+ "artist_names": "Bob Dylan",
+ "full_title": "Tangled Up in Blue by\u00a0Bob\u00a0Dylan",
+ "header_image_thumbnail_url": "https://images.genius.com/9146ba54ed06288f10b296cd5d888781.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9146ba54ed06288f10b296cd5d888781.500x500x1.jpg",
+ "id": 118799,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1738553960,
+ "path": "/Bob-dylan-tangled-up-in-blue-lyrics",
+ "primary_artist_names": "Bob Dylan",
+ "pyongs_count": 27,
+ "relationships_index_url": "https://genius.com/Bob-dylan-tangled-up-in-blue-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 1,
+  "day": 17
+ },
+ "release_date_for_display": "January 17, 1975",
+ "release_date_with_abbreviated_month_for_display": "Jan. 17, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9146ba54ed06288f10b296cd5d888781.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9146ba54ed06288f10b296cd5d888781.500x500x1.jpg",
+ "stats": {
+  "accepted_annotations": 20,
+  "contributors": 103,
+  "iq_earners": 102,
+  "transcribers": 2,
+  "unreviewed_annotations": 14,
+  "verified_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 269833
+ },
+ "title": "Tangled Up in Blue",
+ "title_with_featured": "Tangled Up in Blue",
+ "updated_by_human_at": 1738553960,
+ "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "api_path": "/artists/181",
+  "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+  "id": 181,
+  "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bob Dylan",
+  "url": "https://genius.com/artists/Bob-dylan"
+ },
+ "primary_artists": [
+  {
+   "api_path": "/artists/181",
+   "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+   "id": 181,
+   "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Dylan",
+   "url": "https://genius.com/artists/Bob-dylan"
+  }
+ ],
+ "apple_music_id": "158320843",
+ "apple_music_player_url": "https://genius.com/songs/118799/apple_music_player",
+ "description": {
+  "plain": "The opening track of Dylan\u2019s 1975 album Blood on the Tracks, \u201cTangled Up in Blue\u201d is considered one of Dylan\u2019s finest songs.\n\nThe Telegraph said of the song in 2013:\n\nThe most dazzling lyric ever written, an abstract narrative of relationships told in an amorphous blend of first and third person, rolling past, present and future together, spilling out in tripping cadences and audacious internal rhymes, ripe with sharply turned images and observations and filled with a painfully desperate longing.\n\nA deeply personal song for Dylan, written during the summer of 1974 in his farm in Minnesota and recorded in December of the same year in Minneapolis, the song is inspired by the changes he was going through, such as his marriage falling apart.\n\nThe song reached #31 on the Billboard Hot 100 as a single, while the album reached #1 on the Billboard 200.\n\nThere are many different versions of this song recorded by Dylan, summarized neatly here by Dylan scholar Eyolf \u00d8strem. The earliest version, recorded in September 1974, appears on The Bootleg Series: Vol 1-3."
+ },
+ "embed_content": "<div id='rg_embed_link_118799' class='rg_embed_link' data-song-id='118799'>Read <a href='https://genius.com/Bob-dylan-tangled-up-in-blue-lyrics'>\u201cTangled Up in Blue\u201d by Bob\u00a0Dylan</a> on Genius</div> <script crossorigin src='//genius.com/songs/118799/embed.js'></script>",
+ "featured_video": false,
+ "language": "en",
+ "recording_location": "Sound 80 - Minneapolis, Minnesota",
+ "release_date": "1975-01-17",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "view_recommendations",
+   "view_relationships_page",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_complete",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "unmark_lyrics_evaluation_as_complete",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "set_song_color_gradient",
+   "mark_as_hot",
+   "unmark_as_hot",
+   "view_mark_complete_explanatory_tooltip",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "create_comment",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "view_lyrics_edit_proposals_on_song",
+   "create_question",
+   "answer_question_with_source",
+   "create_additional_role",
+   "add_qa",
+   "pin_qa"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "song_art_primary_color": "#d5426b",
+ "song_art_secondary_color": "#5c2c37",
+ "song_art_text_color": "#fff",
+ "album": {
+  "api_path": "/albums/511426",
+  "cover_art_url": "https://images.genius.com/3473ef0e3a751805b4da76c5ebd83189.1000x1000x1.jpg",
+  "full_title": "Biograph by Bob Dylan",
+  "id": 511426,
+  "name": "Biograph",
+  "primary_artist_names": "Bob Dylan",
+  "release_date_for_display": "November 7, 1985",
+  "url": "https://genius.com/albums/Bob-dylan/Biograph",
+  "artist": {
+   "api_path": "/artists/181",
+   "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+   "id": 181,
+   "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Dylan",
+   "url": "https://genius.com/artists/Bob-dylan"
+  },
+  "primary_artists": [
+   {
+    "api_path": "/artists/181",
+    "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+    "id": 181,
+    "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bob Dylan",
+    "url": "https://genius.com/artists/Bob-dylan"
+   }
+  ]
+ },
+ "custom_performances": [
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1082529",
+     "header_image_url": "https://images.genius.com/cfcda7c878b317ca43727f7eaadd9a5f.495x495x1.jpg",
+     "id": 1082529,
+     "image_url": "https://images.genius.com/cfcda7c878b317ca43727f7eaadd9a5f.495x495x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elliot Scheiner",
+     "url": "https://genius.com/artists/Elliot-scheiner"
+    },
+    {
+     "api_path": "/artists/32782",
+     "header_image_url": "https://images.genius.com/62c09b24cd0e7cb12d918322c355a250.480x288x1.jpg",
+     "id": 32782,
+     "image_url": "https://images.genius.com/62c09b24cd0e7cb12d918322c355a250.480x288x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Ramone",
+     "url": "https://genius.com/artists/Phil-ramone"
+    },
+    {
+     "api_path": "/artists/1110064",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110064,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Markinson",
+     "url": "https://genius.com/artists/Paul-markinson"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/635032",
+     "header_image_url": "https://images.genius.com/a4165c7377d6057df9d77b0fa1261bad.800x800x1.jpg",
+     "id": 635032,
+     "image_url": "https://images.genius.com/e1f27e5d3bc86ef89530cfe513e1835c.204x204x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Weber",
+     "url": "https://genius.com/artists/Chris-weber"
+    },
+    {
+     "api_path": "/artists/1110074",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110074,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Odegard",
+     "url": "https://genius.com/artists/Kevin-odegard"
+    },
+    {
+     "api_path": "/artists/181",
+     "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+     "id": 181,
+     "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bob Dylan",
+     "url": "https://genius.com/artists/Bob-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+     "id": 88331,
+     "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Publisher",
+   "artists": [
+    {
+     "api_path": "/artists/1110053",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110053,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ram\u2019s Horn Music",
+     "url": "https://genius.com/artists/Rams-horn-music"
+    }
+   ]
+  },
+  {
+   "label": "Assistant Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/648588",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 648588,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Glenn Berger",
+     "url": "https://genius.com/artists/Glenn-berger"
+    }
+   ]
+  },
+  {
+   "label": "Additional Production",
+   "artists": [
+    {
+     "api_path": "/artists/649609",
+     "header_image_url": "https://images.genius.com/dfa228c828054fac051db4a5fda2b733.400x400x1.jpg",
+     "id": 649609,
+     "image_url": "https://images.genius.com/dfa228c828054fac051db4a5fda2b733.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Berkowitz",
+     "url": "https://genius.com/artists/Steve-berkowitz"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 129
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+     "id": 88331,
+     "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 129
+    },
+    {
+     "api_path": "/artists/1110053",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110053,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ram\u2019s Horn Music",
+     "url": "https://genius.com/artists/Rams-horn-music"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+     "id": 88331,
+     "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    }
+   ]
+  },
+  {
+   "label": "Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/181",
+     "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+     "id": 181,
+     "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bob Dylan",
+     "url": "https://genius.com/artists/Bob-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Harmonica",
+   "artists": [
+    {
+     "api_path": "/artists/181",
+     "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+     "id": 181,
+     "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bob Dylan",
+     "url": "https://genius.com/artists/Bob-dylan"
+    }
+   ]
+  },
+  {
+   "label": "Keyboards",
+   "artists": [
+    {
+     "api_path": "/artists/1110073",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110073,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gregg Inhofer",
+     "url": "https://genius.com/artists/Gregg-inhofer"
+    }
+   ]
+  },
+  {
+   "label": "Bass Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/1110072",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110072,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Peterson",
+     "url": "https://genius.com/artists/Billy-peterson"
+    }
+   ]
+  },
+  {
+   "label": "Drums",
+   "artists": [
+    {
+     "api_path": "/artists/1110071",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110071,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bill Berg",
+     "url": "https://genius.com/artists/Bill-berg"
+    }
+   ]
+  },
+  {
+   "label": "Art Direction",
+   "artists": [
+    {
+     "api_path": "/artists/1110069",
+     "header_image_url": "https://images.genius.com/62ea305eb7c602c23524e46abb5109d9.250x250x1.jpg",
+     "id": 1110069,
+     "image_url": "https://images.genius.com/62ea305eb7c602c23524e46abb5109d9.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ron Coro",
+     "url": "https://genius.com/artists/Ron-coro"
+    }
+   ]
+  },
+  {
+   "label": "Artwork",
+   "artists": [
+    {
+     "api_path": "/artists/1110068",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110068,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Oppenheim",
+     "url": "https://genius.com/artists/David-oppenheim"
+    },
+    {
+     "api_path": "/artists/1110065",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110065,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Till",
+     "url": "https://genius.com/artists/Paul-till"
+    }
+   ]
+  },
+  {
+   "label": "Graphic Design",
+   "artists": [
+    {
+     "api_path": "/artists/1110070",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110070,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John A. Beck",
+     "url": "https://genius.com/artists/John-a-beck"
+    },
+    {
+     "api_path": "/artists/1110069",
+     "header_image_url": "https://images.genius.com/62ea305eb7c602c23524e46abb5109d9.250x250x1.jpg",
+     "id": 1110069,
+     "image_url": "https://images.genius.com/62ea305eb7c602c23524e46abb5109d9.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ron Coro",
+     "url": "https://genius.com/artists/Ron-coro"
+    },
+    {
+     "api_path": "/artists/1107790",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1107790,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Curry",
+     "url": "https://genius.com/artists/Mike-curry"
+    },
+    {
+     "api_path": "/artists/1107789",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1107789,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Angela Skouras",
+     "url": "https://genius.com/artists/Angela-skouras"
+    }
+   ]
+  },
+  {
+   "label": "Illustration",
+   "artists": [
+    {
+     "api_path": "/artists/1110068",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110068,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Oppenheim",
+     "url": "https://genius.com/artists/David-oppenheim"
+    }
+   ]
+  },
+  {
+   "label": "Liner Notes",
+   "artists": [
+    {
+     "api_path": "/artists/1110067",
+     "header_image_url": "https://images.genius.com/306ded40c2c59b333c41b60f8dd019b4.450x450x1.jpg",
+     "id": 1110067,
+     "image_url": "https://images.genius.com/306ded40c2c59b333c41b60f8dd019b4.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Hamill",
+     "url": "https://genius.com/artists/Pete-hamill"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/653564",
+     "header_image_url": "https://images.genius.com/891f8b74d90064c603724b42916ed12a.1000x663x1.jpg",
+     "id": 653564,
+     "image_url": "https://images.genius.com/5495777aed926bbf1521b6da7153bd3d.848x848x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vlado Meller",
+     "url": "https://genius.com/artists/Vlado-meller"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/32782",
+     "header_image_url": "https://images.genius.com/62c09b24cd0e7cb12d918322c355a250.480x288x1.jpg",
+     "id": 32782,
+     "image_url": "https://images.genius.com/62c09b24cd0e7cb12d918322c355a250.480x288x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Phil Ramone",
+     "url": "https://genius.com/artists/Phil-ramone"
+    },
+    {
+     "api_path": "/artists/1082529",
+     "header_image_url": "https://images.genius.com/cfcda7c878b317ca43727f7eaadd9a5f.495x495x1.jpg",
+     "id": 1082529,
+     "image_url": "https://images.genius.com/cfcda7c878b317ca43727f7eaadd9a5f.495x495x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elliot Scheiner",
+     "url": "https://genius.com/artists/Elliot-scheiner"
+    }
+   ]
+  },
+  {
+   "label": "Photography",
+   "artists": [
+    {
+     "api_path": "/artists/1110066",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110066,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ken Regan",
+     "url": "https://genius.com/artists/Ken-regan"
+    },
+    {
+     "api_path": "/artists/1110065",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110065,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Till",
+     "url": "https://genius.com/artists/Paul-till"
+    }
+   ]
+  },
+  {
+   "label": "Remastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1110062",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110062,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shawn R. Britton",
+     "url": "https://genius.com/artists/Shawn-r-britton"
+    },
+    {
+     "api_path": "/artists/633555",
+     "header_image_url": "https://images.genius.com/c34b7238c22f591aaada82f571282c95.770x430x1.png",
+     "id": 633555,
+     "image_url": "https://images.genius.com/3c33c552c34a3ef318af212fa9e54daf.863x863x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Calbi",
+     "url": "https://genius.com/artists/Greg-calbi"
+    },
+    {
+     "api_path": "/artists/1110061",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110061,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rob LoVerde",
+     "url": "https://genius.com/artists/Rob-loverde"
+    },
+    {
+     "api_path": "/artists/1035376",
+     "header_image_url": "https://images.genius.com/111eab41c88a7714b63aa8ebf3fdcbe8.332x332x1.jpg",
+     "id": 1035376,
+     "image_url": "https://images.genius.com/111eab41c88a7714b63aa8ebf3fdcbe8.332x332x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Darcy Proper",
+     "url": "https://genius.com/artists/Darcy-proper"
+    }
+   ]
+  },
+  {
+   "label": "Tape Operator",
+   "artists": [
+    {
+     "api_path": "/artists/1090645",
+     "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+     "id": 1090645,
+     "image_url": "https://images.genius.com/6149d3168b3c9427cd9fb0997b44de6a.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Didier C. Deutsch",
+     "url": "https://genius.com/artists/Didier-c-deutsch"
+    },
+    {
+     "api_path": "/artists/648588",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 648588,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Glenn Berger",
+     "url": "https://genius.com/artists/Glenn-berger"
+    },
+    {
+     "api_path": "/artists/1057215",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1057215,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Kelly",
+     "url": "https://genius.com/artists/Matt-kelly"
+    },
+    {
+     "api_path": "/artists/1110059",
+     "header_image_url": "https://images.genius.com/15a86bf1e88d8a4c0356e4b71a181c23.1000x1000x1.png",
+     "id": 1110059,
+     "image_url": "https://images.genius.com/15a86bf1e88d8a4c0356e4b71a181c23.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Debbie Smith",
+     "url": "https://genius.com/artists/Debbie-smith"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 129
+    }
+   ]
+  },
+  {
+   "label": "Manufacturer",
+   "artists": [
+    {
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 129
+    },
+    {
+     "api_path": "/artists/1087916",
+     "header_image_url": "https://images.genius.com/12272e01bede561c5b4a3af4ee6e99be.586x586x1.jpg",
+     "id": 1087916,
+     "image_url": "https://images.genius.com/12272e01bede561c5b4a3af4ee6e99be.586x586x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Columbia Records Pressing Plant (Santa Maria)",
+     "url": "https://genius.com/artists/Columbia-records-pressing-plant-santa-maria"
+    },
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+     "id": 88331,
+     "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/1110054",
+     "header_image_url": "https://images.genius.com/796ad8d46935868a3603325f3c860b7d.595x93x1.jpg",
+     "id": 1110054,
+     "image_url": "https://images.genius.com/dea16e00e63893fdedfdb805b2b5682d.239x239x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony DADC",
+     "url": "https://genius.com/artists/Sony-dadc"
+    }
+   ]
+  },
+  {
+   "label": "Mixed At",
+   "artists": [
+    {
+     "api_path": "/artists/1110055",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "id": 1110055,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sound 80",
+     "url": "https://genius.com/artists/Sound-80"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1412100,
+  "annotator_login": "taquionirico",
+  "api_path": "/referents/3799625",
+  "classification": "accepted",
+  "fragment": "Tangled Up in Blue",
+  "id": 3799625,
+  "is_description": true,
+  "path": "/3799625/Bob-dylan-tangled-up-in-blue/Tangled-up-in-blue",
+  "range": {
+   "content": "Tangled Up in Blue"
+  },
+  "song_id": 118799,
+  "url": "https://genius.com/3799625/Bob-dylan-tangled-up-in-blue/Tangled-up-in-blue",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/118799",
+   "client_timestamps": {
+    "updated_by_human_at": 1738553960,
+    "lyrics_updated_at": 1738553960
+   },
+   "context": "Bob Dylan",
+   "id": 118799,
+   "image_url": "https://images.genius.com/9146ba54ed06288f10b296cd5d888781.500x500x1.jpg",
+   "link_title": "Tangled Up in Blue by\u00a0Bob\u00a0Dylan",
+   "title": "Tangled Up in Blue",
+   "type": "Song",
+   "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/3799625",
+    "body": {
+     "plain": "The opening track of Dylan\u2019s 1975 album Blood on the Tracks, \u201cTangled Up in Blue\u201d is considered one of Dylan\u2019s finest songs.\n\nThe Telegraph said of the song in 2013:\n\nThe most dazzling lyric ever written, an abstract narrative of relationships told in an amorphous blend of first and third person, rolling past, present and future together, spilling out in tripping cadences and audacious internal rhymes, ripe with sharply turned images and observations and filled with a painfully desperate longing.\n\nA deeply personal song for Dylan, written during the summer of 1974 in his farm in Minnesota and recorded in December of the same year in Minneapolis, the song is inspired by the changes he was going through, such as his marriage falling apart.\n\nThe song reached #31 on the Billboard Hot 100 as a single, while the album reached #1 on the Billboard 200.\n\nThere are many different versions of this song recorded by Dylan, summarized neatly here by Dylan scholar Eyolf \u00d8strem. The earliest version, recorded in September 1974, appears on The Bootleg Series: Vol 1-3."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 3799625,
+    "pinned": false,
+    "share_url": "https://genius.com/3799625",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/3799625/Bob-dylan-tangled-up-in-blue/Tangled-up-in-blue",
+    "verified": false,
+    "votes_total": 59,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "report_as_abusive",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8089887640449439,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1412100",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/12d4c364976d757f57e2abd299193200",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/12d4c364976d757f57e2abd299193200",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/12d4c364976d757f57e2abd299193200",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/12d4c364976d757f57e2abd299193200",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://filepicker-images.genius.com/nvIElLgRSRCwV3vyQPXi_neil-leifer-sports-illustrated-muhammad-ali-vs-cleveland-williams-astrodome-houston-1966.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1412100,
+       "iq": 9568,
+       "login": "taquionirico",
+       "name": "taquionirico",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/taquionirico",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.17977528089887643,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1713313",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/d9b5c88b88763dfa1e7182f637a7715e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/d9b5c88b88763dfa1e7182f637a7715e",
+       "human_readable_role_for_display": "Editor",
+       "id": 1713313,
+       "iq": 55035,
+       "login": "MatthewDurrant",
+       "name": "MatthewDurrant",
+       "role_for_display": "editor",
+       "url": "https://genius.com/MatthewDurrant",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011235955056179777,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3262439",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d7cfbba42ef603e522673f11f9047d5c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d7cfbba42ef603e522673f11f9047d5c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d7cfbba42ef603e522673f11f9047d5c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d7cfbba42ef603e522673f11f9047d5c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d7cfbba42ef603e522673f11f9047d5c",
+       "human_readable_role_for_display": "Editor",
+       "id": 3262439,
+       "iq": 110835,
+       "login": "warhorus",
+       "name": "warhorus",
+       "role_for_display": "editor",
+       "url": "https://genius.com/warhorus",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "lyrics_marked_complete_by": null,
+ "lyrics_marked_staff_approved_by": null,
+ "media": [
+  {
+   "native_uri": "spotify:track:6Vcwr9tb3ZLO63F8DL8cqu",
+   "provider": "spotify",
+   "type": "audio",
+   "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=YwSZvHqf9qM"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/181",
+   "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+   "id": 181,
+   "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Dylan",
+   "url": "https://genius.com/artists/Bob-dylan"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "url": null,
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/7720230",
+     "artist_names": "The Hood Internet",
+     "full_title": "1975 by\u00a0The\u00a0Hood Internet",
+     "header_image_thumbnail_url": "https://images.genius.com/8e2021da4a91957fd1123bdfc1691e01.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/8e2021da4a91957fd1123bdfc1691e01.500x500x1.jpg",
+     "id": 7720230,
+     "lyrics_owner_id": 5773728,
+     "lyrics_state": "complete",
+     "path": "/The-hood-internet-1975-lyrics",
+     "primary_artist_names": "The Hood Internet",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/The-hood-internet-1975-sample",
+     "release_date_components": {
+      "year": 2021,
+      "month": 9,
+      "day": 2
+     },
+     "release_date_for_display": "September 2, 2021",
+     "release_date_with_abbreviated_month_for_display": "Sep. 2, 2021",
+     "song_art_image_thumbnail_url": "https://images.genius.com/8e2021da4a91957fd1123bdfc1691e01.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/8e2021da4a91957fd1123bdfc1691e01.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false
+     },
+     "title": "1975",
+     "title_with_featured": "1975",
+     "url": "https://genius.com/The-hood-internet-1975-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/2287",
+      "header_image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+      "id": 2287,
+      "image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Hood Internet",
+      "url": "https://genius.com/artists/The-hood-internet"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/2287",
+       "header_image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+       "id": 2287,
+       "image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Hood Internet",
+       "url": "https://genius.com/artists/The-hood-internet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "url": null,
+   "songs": [
+    {
+     "annotation_count": 8,
+     "api_path": "/songs/202156",
+     "artist_names": "Hootie & the Blowfish",
+     "full_title": "Only Wanna Be With You by\u00a0Hootie\u00a0& the Blowfish",
+     "header_image_thumbnail_url": "https://images.genius.com/dece5ff5f225ed261d528636b877fc82.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/dece5ff5f225ed261d528636b877fc82.300x300x1.jpg",
+     "id": 202156,
+     "lyrics_owner_id": 10380,
+     "lyrics_state": "complete",
+     "path": "/Hootie-and-the-blowfish-only-wanna-be-with-you-lyrics",
+     "primary_artist_names": "Hootie & the Blowfish",
+     "pyongs_count": 10,
+     "relationships_index_url": "https://genius.com/Hootie-and-the-blowfish-only-wanna-be-with-you-sample",
+     "release_date_components": {
+      "year": 1994,
+      "month": 7,
+      "day": 5
+     },
+     "release_date_for_display": "July 5, 1994",
+     "release_date_with_abbreviated_month_for_display": "Jul. 5, 1994",
+     "song_art_image_thumbnail_url": "https://images.genius.com/dece5ff5f225ed261d528636b877fc82.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/dece5ff5f225ed261d528636b877fc82.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 148234
+     },
+     "title": "Only Wanna Be With You",
+     "title_with_featured": "Only Wanna Be With You",
+     "url": "https://genius.com/Hootie-and-the-blowfish-only-wanna-be-with-you-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/64922",
+      "header_image_url": "https://images.genius.com/8ee4e3e8321c6b488ec9bae447c73fe0.460x306x1.jpg",
+      "id": 64922,
+      "image_url": "https://images.genius.com/27f5c1345fb46a14cbb414ba7ca70c9b.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Hootie & the Blowfish",
+      "url": "https://genius.com/artists/Hootie-and-the-blowfish"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/64922",
+       "header_image_url": "https://images.genius.com/8ee4e3e8321c6b488ec9bae447c73fe0.460x306x1.jpg",
+       "id": 64922,
+       "image_url": "https://images.genius.com/27f5c1345fb46a14cbb414ba7ca70c9b.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hootie & the Blowfish",
+       "url": "https://genius.com/artists/Hootie-and-the-blowfish"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "url": "https://genius.com/Ray-lamontagne-jolene-sample/covers",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-sample/covers",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/10884693",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up In Blue (Live at Merriweather Post Pavilion, Columbia, MD, September 1, 1989) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/b6f5bc3284e7e1eafc925ba71ed62afe.300x300x1.png",
+     "header_image_url": "https://images.genius.com/b6f5bc3284e7e1eafc925ba71ed62afe.1000x1000x1.png",
+     "id": 10884693,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-merriweather-post-pavilion-columbia-md-september-1-1989-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-merriweather-post-pavilion-columbia-md-september-1-1989-sample",
+     "release_date_components": {
+      "year": 2005,
+      "month": 3,
+      "day": 25
+     },
+     "release_date_for_display": "March 25, 2005",
+     "release_date_with_abbreviated_month_for_display": "Mar. 25, 2005",
+     "song_art_image_thumbnail_url": "https://images.genius.com/b6f5bc3284e7e1eafc925ba71ed62afe.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/b6f5bc3284e7e1eafc925ba71ed62afe.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue (Live at Merriweather Post Pavilion, Columbia, MD, September 1, 1989)",
+     "title_with_featured": "Tangled Up In Blue (Live at Merriweather Post Pavilion, Columbia, MD, September 1, 1989)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-merriweather-post-pavilion-columbia-md-september-1-1989-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/10203344",
+     "artist_names": "Elysian Fields",
+     "full_title": "Tangled Up In Blue by\u00a0Elysian\u00a0Fields",
+     "header_image_thumbnail_url": "https://images.genius.com/35df54504f5feaf37f60fa6f888c2fac.300x300x1.png",
+     "header_image_url": "https://images.genius.com/35df54504f5feaf37f60fa6f888c2fac.694x694x1.png",
+     "id": 10203344,
+     "lyrics_owner_id": 17691209,
+     "lyrics_state": "complete",
+     "path": "/Elysian-fields-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Elysian Fields",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Elysian-fields-tangled-up-in-blue-sample",
+     "release_date_components": {
+      "year": 2001,
+      "month": null,
+      "day": null
+     },
+     "release_date_for_display": "2001",
+     "release_date_with_abbreviated_month_for_display": "2001",
+     "song_art_image_thumbnail_url": "https://images.genius.com/35df54504f5feaf37f60fa6f888c2fac.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/35df54504f5feaf37f60fa6f888c2fac.694x694x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue",
+     "title_with_featured": "Tangled Up In Blue",
+     "url": "https://genius.com/Elysian-fields-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/355405",
+      "header_image_url": "https://images.genius.com/d2d6317c5576e496ac192180452f3640.975x180x1.png",
+      "id": 355405,
+      "image_url": "https://images.genius.com/9d5dbeb1ea51e63dcb5b1768645d44b1.895x895x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Elysian Fields",
+      "url": "https://genius.com/artists/Elysian-fields"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/355405",
+       "header_image_url": "https://images.genius.com/d2d6317c5576e496ac192180452f3640.975x180x1.png",
+       "id": 355405,
+       "image_url": "https://images.genius.com/9d5dbeb1ea51e63dcb5b1768645d44b1.895x895x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elysian Fields",
+       "url": "https://genius.com/artists/Elysian-fields"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/10076284",
+     "artist_names": "Kim Larsen and Jungledreams",
+     "full_title": "Tangled Up In Blue by\u00a0Kim\u00a0Larsen and Jungledreams",
+     "header_image_thumbnail_url": "https://images.genius.com/6dd940b32d7d0e56676f8570164fda09.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/6dd940b32d7d0e56676f8570164fda09.600x600x1.jpg",
+     "id": 10076284,
+     "lyrics_owner_id": 3451428,
+     "lyrics_state": "complete",
+     "path": "/Kim-larsen-and-jungledreams-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Kim Larsen and Jungledreams",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Kim-larsen-and-jungledreams-tangled-up-in-blue-sample",
+     "release_date_components": null,
+     "release_date_for_display": null,
+     "release_date_with_abbreviated_month_for_display": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/6dd940b32d7d0e56676f8570164fda09.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/6dd940b32d7d0e56676f8570164fda09.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue",
+     "title_with_featured": "Tangled Up In Blue",
+     "url": "https://genius.com/Kim-larsen-and-jungledreams-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/3848531",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+      "id": 3848531,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kim Larsen and Jungledreams",
+      "url": "https://genius.com/artists/Kim-larsen-and-jungledreams"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/3848531",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+       "id": 3848531,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1739291406",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kim Larsen and Jungledreams",
+       "url": "https://genius.com/artists/Kim-larsen-and-jungledreams"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/9801431",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up In Blue (Live at Poplar Creek Music Theatre, Hoffman Estates, IL, September 16, 1989) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/e5c0ed7481b3fa951fdb0718afa5b3a6.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e5c0ed7481b3fa951fdb0718afa5b3a6.600x600x1.jpg",
+     "id": 9801431,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-poplar-creek-music-theatre-hoffman-estates-il-september-16-1989-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-poplar-creek-music-theatre-hoffman-estates-il-september-16-1989-sample",
+     "release_date_components": {
+      "year": 2020,
+      "month": 4,
+      "day": 20
+     },
+     "release_date_for_display": "April 20, 2020",
+     "release_date_with_abbreviated_month_for_display": "Apr. 20, 2020",
+     "song_art_image_thumbnail_url": "https://images.genius.com/e5c0ed7481b3fa951fdb0718afa5b3a6.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e5c0ed7481b3fa951fdb0718afa5b3a6.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue (Live at Poplar Creek Music Theatre, Hoffman Estates, IL, September 16, 1989)",
+     "title_with_featured": "Tangled Up In Blue (Live at Poplar Creek Music Theatre, Hoffman Estates, IL, September 16, 1989)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-poplar-creek-music-theatre-hoffman-estates-il-september-16-1989-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/9760934",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up In Blue (Live at The Stone, San Francisco, June 1, 1981) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/70338307f4914b23e01517575f1c9434.300x300x1.png",
+     "header_image_url": "https://images.genius.com/70338307f4914b23e01517575f1c9434.1000x1000x1.png",
+     "id": 9760934,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-the-stone-san-francisco-june-1-1981-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-the-stone-san-francisco-june-1-1981-sample",
+     "release_date_components": {
+      "year": 2022,
+      "month": 10,
+      "day": 28
+     },
+     "release_date_for_display": "October 28, 2022",
+     "release_date_with_abbreviated_month_for_display": "Oct. 28, 2022",
+     "song_art_image_thumbnail_url": "https://images.genius.com/70338307f4914b23e01517575f1c9434.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/70338307f4914b23e01517575f1c9434.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue (Live at The Stone, San Francisco, June 1, 1981)",
+     "title_with_featured": "Tangled Up In Blue (Live at The Stone, San Francisco, June 1, 1981)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-the-stone-san-francisco-june-1-1981-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/9760914",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up In Blue (Live at Oakland Coliseum Arena, October 31, 1992) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/aaf43f7b73de2566ba9e4302a7920d6f.300x300x1.png",
+     "header_image_url": "https://images.genius.com/aaf43f7b73de2566ba9e4302a7920d6f.1000x1000x1.png",
+     "id": 9760914,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-oakland-coliseum-arena-october-31-1992-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-oakland-coliseum-arena-october-31-1992-sample",
+     "release_date_components": {
+      "year": 2022,
+      "month": 10,
+      "day": 28
+     },
+     "release_date_for_display": "October 28, 2022",
+     "release_date_with_abbreviated_month_for_display": "Oct. 28, 2022",
+     "song_art_image_thumbnail_url": "https://images.genius.com/aaf43f7b73de2566ba9e4302a7920d6f.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/aaf43f7b73de2566ba9e4302a7920d6f.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue (Live at Oakland Coliseum Arena, October 31, 1992)",
+     "title_with_featured": "Tangled Up In Blue (Live at Oakland Coliseum Arena, October 31, 1992)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-oakland-coliseum-arena-october-31-1992-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/7322438",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up in Blue (Live at French's Camp, Piercy, CA, June 10, 1989) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.1000x1000x1.jpg",
+     "id": 7322438,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-june-10-1989-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-june-10-1989-sample",
+     "release_date_components": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+     },
+     "release_date_for_display": "March 15, 2019",
+     "release_date_with_abbreviated_month_for_display": "Mar. 15, 2019",
+     "song_art_image_thumbnail_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue (Live at French\u2019s Camp, Piercy, CA, June 10, 1989)",
+     "title_with_featured": "Tangled Up in Blue (Live at French's Camp, Piercy, CA, June 10, 1989)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-june-10-1989-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/7322265",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up in Blue (Live at French's Camp, Piercy, CA, August 29, 1987) by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.1000x1000x1.jpg",
+     "id": 7322265,
+     "lyrics_owner_id": 3492882,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-august-29-1987-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-august-29-1987-sample",
+     "release_date_components": {
+      "year": 2019,
+      "month": 3,
+      "day": 15
+     },
+     "release_date_for_display": "March 15, 2019",
+     "release_date_with_abbreviated_month_for_display": "Mar. 15, 2019",
+     "song_art_image_thumbnail_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/088baf5189cd27b60766022a51cd2f5c.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue (Live at French\u2019s Camp, Piercy, CA, August 29, 1987)",
+     "title_with_featured": "Tangled Up in Blue (Live at French's Camp, Piercy, CA, August 29, 1987)",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-live-at-frenchs-camp-piercy-ca-august-29-1987-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/7113061",
+     "artist_names": "Jerry Garcia Band",
+     "full_title": "Tangled Up in Blue by\u00a0Jerry\u00a0Garcia Band",
+     "header_image_thumbnail_url": "https://images.genius.com/b0fc541d953f4fb38983f396f43b2774.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b0fc541d953f4fb38983f396f43b2774.1000x1000x1.jpg",
+     "id": 7113061,
+     "lyrics_owner_id": 8613973,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-band-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Jerry Garcia Band",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-sample",
+     "release_date_components": {
+      "year": 1991,
+      "month": 8,
+      "day": null
+     },
+     "release_date_for_display": "August 1991",
+     "release_date_with_abbreviated_month_for_display": "Aug. 1991",
+     "song_art_image_thumbnail_url": "https://images.genius.com/b0fc541d953f4fb38983f396f43b2774.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b0fc541d953f4fb38983f396f43b2774.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue",
+     "title_with_featured": "Tangled Up in Blue",
+     "url": "https://genius.com/Jerry-garcia-band-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/347648",
+      "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+      "id": 347648,
+      "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia Band",
+      "url": "https://genius.com/artists/Jerry-garcia-band"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/347648",
+       "header_image_url": "https://images.genius.com/64ed8039219bee80ba91c91d2b900d24.1000x686x1.jpg",
+       "id": 347648,
+       "image_url": "https://images.genius.com/eb7ec45f0de3f5530466954152336719.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia Band",
+       "url": "https://genius.com/artists/Jerry-garcia-band"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/7256925",
+     "artist_names": "Jerry Garcia",
+     "full_title": "Tangled Up in Blue by\u00a0Jerry\u00a0Garcia",
+     "header_image_thumbnail_url": "https://images.genius.com/1efe14a9430a294a00e0ec95d7b0ab7a.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/1efe14a9430a294a00e0ec95d7b0ab7a.1000x1000x1.jpg",
+     "id": 7256925,
+     "lyrics_owner_id": 8613973,
+     "lyrics_state": "complete",
+     "path": "/Jerry-garcia-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Jerry Garcia",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Jerry-garcia-tangled-up-in-blue-sample",
+     "release_date_components": {
+      "year": 2004,
+      "month": null,
+      "day": null
+     },
+     "release_date_for_display": "2004",
+     "release_date_with_abbreviated_month_for_display": "2004",
+     "song_art_image_thumbnail_url": "https://images.genius.com/1efe14a9430a294a00e0ec95d7b0ab7a.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/1efe14a9430a294a00e0ec95d7b0ab7a.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue",
+     "title_with_featured": "Tangled Up in Blue",
+     "url": "https://genius.com/Jerry-garcia-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/105059",
+      "header_image_url": "https://images.genius.com/125cdfc342098c06eb810a1c42d18659.800x310x1.png",
+      "id": 105059,
+      "image_url": "https://images.genius.com/5001f03b26849f8b1399b4d4538a4bf1.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jerry Garcia",
+      "url": "https://genius.com/artists/Jerry-garcia"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/105059",
+       "header_image_url": "https://images.genius.com/125cdfc342098c06eb810a1c42d18659.800x310x1.png",
+       "id": 105059,
+       "image_url": "https://images.genius.com/5001f03b26849f8b1399b4d4538a4bf1.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Garcia",
+       "url": "https://genius.com/artists/Jerry-garcia"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3991893",
+     "artist_names": "Bob Dylan",
+     "full_title": "Tangled Up in Blue (9/19/74, Take 3, Remake 3) by\u00a0Bob\u00a0Dylan",
+     "header_image_thumbnail_url": "https://images.genius.com/b0dbcd8aafb56fb3ba33de387eb4db90.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/b0dbcd8aafb56fb3ba33de387eb4db90.1000x1000x1.jpg",
+     "id": 3991893,
+     "lyrics_owner_id": 5501811,
+     "lyrics_state": "complete",
+     "path": "/Bob-dylan-tangled-up-in-blue-9-19-74-take-3-remake-3-lyrics",
+     "primary_artist_names": "Bob Dylan",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Bob-dylan-tangled-up-in-blue-9-19-74-take-3-remake-3-sample",
+     "release_date_components": {
+      "year": 2018,
+      "month": 11,
+      "day": 2
+     },
+     "release_date_for_display": "November 2, 2018",
+     "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+     "song_art_image_thumbnail_url": "https://images.genius.com/b0dbcd8aafb56fb3ba33de387eb4db90.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b0dbcd8aafb56fb3ba33de387eb4db90.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue (9/19/74, Take 3, Remake 3)",
+     "title_with_featured": "Tangled Up in Blue (9/19/74, Take 3, Remake 3)",
+     "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-9-19-74-take-3-remake-3-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/181",
+      "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+      "id": 181,
+      "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bob Dylan",
+      "url": "https://genius.com/artists/Bob-dylan"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/181",
+       "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+       "id": 181,
+       "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bob Dylan",
+       "url": "https://genius.com/artists/Bob-dylan"
+      }
+     ]
+    },
+    {
+     "annotation_count": 5,
+     "api_path": "/songs/2393254",
+     "artist_names": "Bob Dylan",
+     "full_title": "Tangled Up in Blue (Take 3, Remake 2) by\u00a0Bob\u00a0Dylan",
+     "header_image_thumbnail_url": "https://images.genius.com/ea6fcf419d1b36b4ecc0624556fbdb55.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ea6fcf419d1b36b4ecc0624556fbdb55.1000x1000x1.jpg",
+     "id": 2393254,
+     "lyrics_owner_id": 1713313,
+     "lyrics_state": "complete",
+     "path": "/Bob-dylan-tangled-up-in-blue-take-3-remake-2-lyrics",
+     "primary_artist_names": "Bob Dylan",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Bob-dylan-tangled-up-in-blue-take-3-remake-2-sample",
+     "release_date_components": {
+      "year": 1991,
+      "month": 3,
+      "day": 26
+     },
+     "release_date_for_display": "March 26, 1991",
+     "release_date_with_abbreviated_month_for_display": "Mar. 26, 1991",
+     "song_art_image_thumbnail_url": "https://images.genius.com/ea6fcf419d1b36b4ecc0624556fbdb55.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ea6fcf419d1b36b4ecc0624556fbdb55.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 6501
+     },
+     "title": "Tangled Up in Blue (Take 3, Remake 2)",
+     "title_with_featured": "Tangled Up in Blue (Take 3, Remake 2)",
+     "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-take-3-remake-2-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/181",
+      "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+      "id": 181,
+      "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bob Dylan",
+      "url": "https://genius.com/artists/Bob-dylan"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/181",
+       "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+       "id": 181,
+       "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bob Dylan",
+       "url": "https://genius.com/artists/Bob-dylan"
+      }
+     ]
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/3217114",
+     "artist_names": "Joan Osborne",
+     "full_title": "Tangled Up in Blue by\u00a0Joan\u00a0Osborne",
+     "header_image_thumbnail_url": "https://images.genius.com/ba8c15dbce76be1efa326574c2baec39.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ba8c15dbce76be1efa326574c2baec39.1000x1000x1.jpg",
+     "id": 3217114,
+     "lyrics_owner_id": 104344,
+     "lyrics_state": "complete",
+     "path": "/Joan-osborne-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Joan Osborne",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Joan-osborne-tangled-up-in-blue-sample",
+     "release_date_components": {
+      "year": 2017,
+      "month": 8,
+      "day": 18
+     },
+     "release_date_for_display": "August 18, 2017",
+     "release_date_with_abbreviated_month_for_display": "Aug. 18, 2017",
+     "song_art_image_thumbnail_url": "https://images.genius.com/ba8c15dbce76be1efa326574c2baec39.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ba8c15dbce76be1efa326574c2baec39.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue",
+     "title_with_featured": "Tangled Up in Blue",
+     "url": "https://genius.com/Joan-osborne-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/34266",
+      "header_image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+      "id": 34266,
+      "image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Joan Osborne",
+      "url": "https://genius.com/artists/Joan-osborne"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/34266",
+       "header_image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+       "id": 34266,
+       "image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joan Osborne",
+       "url": "https://genius.com/artists/Joan-osborne"
+      }
+     ]
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1606933",
+     "artist_names": "Great White",
+     "full_title": "Tangled Up In Blue by\u00a0Great\u00a0White",
+     "header_image_thumbnail_url": "https://images.genius.com/abee3491773102a7ef643cc76aa87d4f.300x300x1.png",
+     "header_image_url": "https://images.genius.com/abee3491773102a7ef643cc76aa87d4f.500x500x1.png",
+     "id": 1606933,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/Great-white-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Great White",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Great-white-tangled-up-in-blue-sample",
+     "release_date_components": null,
+     "release_date_for_display": null,
+     "release_date_with_abbreviated_month_for_display": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/abee3491773102a7ef643cc76aa87d4f.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/abee3491773102a7ef643cc76aa87d4f.500x500x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue",
+     "title_with_featured": "Tangled Up In Blue",
+     "url": "https://genius.com/Great-white-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/17261",
+      "header_image_url": "https://images.genius.com/194fa726891241a7237c68b63e9f91a5.600x439x1.png",
+      "id": 17261,
+      "image_url": "https://images.genius.com/7586fab66ffa968f8f4dc8c86e01fba9.439x439x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Great White",
+      "url": "https://genius.com/artists/Great-white"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/17261",
+       "header_image_url": "https://images.genius.com/194fa726891241a7237c68b63e9f91a5.600x439x1.png",
+       "id": 17261,
+       "image_url": "https://images.genius.com/7586fab66ffa968f8f4dc8c86e01fba9.439x439x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Great White",
+       "url": "https://genius.com/artists/Great-white"
+      }
+     ]
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1184824",
+     "artist_names": "Indigo Girls",
+     "full_title": "Tangled Up In Blue by\u00a0Indigo\u00a0Girls",
+     "header_image_thumbnail_url": "https://images.genius.com/d2f13339ad3c702f4308ead27078e840.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/d2f13339ad3c702f4308ead27078e840.1000x1000x1.jpg",
+     "id": 1184824,
+     "lyrics_owner_id": 13517274,
+     "lyrics_state": "complete",
+     "path": "/Indigo-girls-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Indigo Girls",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Indigo-girls-tangled-up-in-blue-sample",
+     "release_date_components": {
+      "year": 1995,
+      "month": null,
+      "day": null
+     },
+     "release_date_for_display": "1995",
+     "release_date_with_abbreviated_month_for_display": "1995",
+     "song_art_image_thumbnail_url": "https://images.genius.com/d2f13339ad3c702f4308ead27078e840.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d2f13339ad3c702f4308ead27078e840.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue",
+     "title_with_featured": "Tangled Up In Blue",
+     "url": "https://genius.com/Indigo-girls-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/23594",
+      "header_image_url": "https://images.genius.com/ef844bd30eb2703d33323ecc80c81093.1000x710x1.jpg",
+      "id": 23594,
+      "image_url": "https://s3.amazonaws.com/rapgenius/1374549946_Indigo-Girls-11.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Indigo Girls",
+      "url": "https://genius.com/artists/Indigo-girls"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/23594",
+       "header_image_url": "https://images.genius.com/ef844bd30eb2703d33323ecc80c81093.1000x710x1.jpg",
+       "id": 23594,
+       "image_url": "https://s3.amazonaws.com/rapgenius/1374549946_Indigo-Girls-11.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Indigo Girls",
+       "url": "https://genius.com/artists/Indigo-girls"
+      }
+     ]
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/1068256",
+     "artist_names": "Robyn Hitchcock",
+     "full_title": "Tangled Up in Blue by\u00a0Robyn\u00a0Hitchcock",
+     "header_image_thumbnail_url": "https://images.genius.com/4476c7b6ab3bd711b40f0688743ec694.300x299x1.jpg",
+     "header_image_url": "https://images.genius.com/4476c7b6ab3bd711b40f0688743ec694.300x299x1.jpg",
+     "id": 1068256,
+     "lyrics_owner_id": 6821092,
+     "lyrics_state": "complete",
+     "path": "/Robyn-hitchcock-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "Robyn Hitchcock",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Robyn-hitchcock-tangled-up-in-blue-sample",
+     "release_date_components": null,
+     "release_date_for_display": null,
+     "release_date_with_abbreviated_month_for_display": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4476c7b6ab3bd711b40f0688743ec694.300x299x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4476c7b6ab3bd711b40f0688743ec694.300x299x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 3,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue",
+     "title_with_featured": "Tangled Up in Blue",
+     "url": "https://genius.com/Robyn-hitchcock-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/90989",
+      "header_image_url": "https://images.genius.com/75e0332313e5e1a4c0761b74da4bbbdc.999x999x1.jpg",
+      "id": 90989,
+      "image_url": "https://images.genius.com/75e0332313e5e1a4c0761b74da4bbbdc.999x999x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Robyn Hitchcock",
+      "url": "https://genius.com/artists/Robyn-hitchcock"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/90989",
+       "header_image_url": "https://images.genius.com/75e0332313e5e1a4c0761b74da4bbbdc.999x999x1.jpg",
+       "id": 90989,
+       "image_url": "https://images.genius.com/75e0332313e5e1a4c0761b74da4bbbdc.999x999x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Robyn Hitchcock",
+       "url": "https://genius.com/artists/Robyn-hitchcock"
+      }
+     ]
+    },
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/1040609",
+     "artist_names": "The Whitlams",
+     "full_title": "Tangled Up In Blue by\u00a0The\u00a0Whitlams",
+     "header_image_thumbnail_url": "https://images.genius.com/c35ea2f28ad1bf8b750f2ccef929576e.300x300x1.png",
+     "header_image_url": "https://images.genius.com/c35ea2f28ad1bf8b750f2ccef929576e.1000x1000x1.png",
+     "id": 1040609,
+     "lyrics_owner_id": 1549345,
+     "lyrics_state": "complete",
+     "path": "/The-whitlams-tangled-up-in-blue-lyrics",
+     "primary_artist_names": "The Whitlams",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/The-whitlams-tangled-up-in-blue-sample",
+     "release_date_components": null,
+     "release_date_for_display": null,
+     "release_date_with_abbreviated_month_for_display": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/c35ea2f28ad1bf8b750f2ccef929576e.300x300x1.png",
+     "song_art_image_url": "https://images.genius.com/c35ea2f28ad1bf8b750f2ccef929576e.1000x1000x1.png",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue",
+     "title_with_featured": "Tangled Up In Blue",
+     "url": "https://genius.com/The-whitlams-tangled-up-in-blue-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/354645",
+      "header_image_url": "https://images.genius.com/5905d9e3e2250e3937c382eabbf2bf32.1000x625x1.jpg",
+      "id": 354645,
+      "image_url": "https://images.genius.com/cce1dd743f5b4ebe696376abba3de797.667x667x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Whitlams",
+      "url": "https://genius.com/artists/The-whitlams"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/354645",
+       "header_image_url": "https://images.genius.com/5905d9e3e2250e3937c382eabbf2bf32.1000x625x1.jpg",
+       "id": 354645,
+       "image_url": "https://images.genius.com/cce1dd743f5b4ebe696376abba3de797.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Whitlams",
+       "url": "https://genius.com/artists/The-whitlams"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "url": null,
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/7158430",
+     "artist_names": "Bob Dylan",
+     "full_title": "Tangled Up in Blue (Live at the Boston Music Hall, Boston, MA - November 21, 1975, Evening Show) by\u00a0Bob\u00a0Dylan",
+     "header_image_thumbnail_url": "https://images.genius.com/e97f70aa6877c931545276c14c3afcd9.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e97f70aa6877c931545276c14c3afcd9.945x945x1.jpg",
+     "id": 7158430,
+     "lyrics_owner_id": 1973584,
+     "lyrics_state": "complete",
+     "path": "/Bob-dylan-tangled-up-in-blue-live-at-the-boston-music-hall-boston-ma-november-21-1975-evening-show-lyrics",
+     "primary_artist_names": "Bob Dylan",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Bob-dylan-tangled-up-in-blue-live-at-the-boston-music-hall-boston-ma-november-21-1975-evening-show-sample",
+     "release_date_components": null,
+     "release_date_for_display": null,
+     "release_date_with_abbreviated_month_for_display": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/e97f70aa6877c931545276c14c3afcd9.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/e97f70aa6877c931545276c14c3afcd9.945x945x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Tangled Up in Blue (Live at the Boston Music Hall, Boston, MA - November 21, 1975, Evening Show)",
+     "title_with_featured": "Tangled Up in Blue (Live at the Boston Music Hall, Boston, MA - November 21, 1975, Evening Show)",
+     "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-live-at-the-boston-music-hall-boston-ma-november-21-1975-evening-show-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/181",
+      "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+      "id": 181,
+      "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bob Dylan",
+      "url": "https://genius.com/artists/Bob-dylan"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/181",
+       "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+       "id": 181,
+       "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bob Dylan",
+       "url": "https://genius.com/artists/Bob-dylan"
+      }
+     ]
+    },
+    {
+     "annotation_count": 2,
+     "api_path": "/songs/4492859",
+     "artist_names": "Bob Dylan",
+     "full_title": "Tangled Up In Blue (Live at Wembley Stadium, London, UK - July 1984) by\u00a0Bob\u00a0Dylan",
+     "header_image_thumbnail_url": "https://images.genius.com/a48f6d57db8ffd468d96a0fb897f2308.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/a48f6d57db8ffd468d96a0fb897f2308.945x945x1.jpg",
+     "id": 4492859,
+     "lyrics_owner_id": 5120596,
+     "lyrics_state": "complete",
+     "path": "/Bob-dylan-tangled-up-in-blue-live-at-wembley-stadium-london-uk-july-1984-lyrics",
+     "primary_artist_names": "Bob Dylan",
+     "pyongs_count": null,
+     "relationships_index_url": "https://genius.com/Bob-dylan-tangled-up-in-blue-live-at-wembley-stadium-london-uk-july-1984-sample",
+     "release_date_components": {
+      "year": 1984,
+      "month": 11,
+      "day": 29
+     },
+     "release_date_for_display": "November 29, 1984",
+     "release_date_with_abbreviated_month_for_display": "Nov. 29, 1984",
+     "song_art_image_thumbnail_url": "https://images.genius.com/a48f6d57db8ffd468d96a0fb897f2308.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/a48f6d57db8ffd468d96a0fb897f2308.945x945x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false
+     },
+     "title": "Tangled Up In Blue (Live at Wembley Stadium, London, UK - July 1984)",
+     "title_with_featured": "Tangled Up In Blue (Live at Wembley Stadium, London, UK - July 1984)",
+     "url": "https://genius.com/Bob-dylan-tangled-up-in-blue-live-at-wembley-stadium-london-uk-july-1984-lyrics",
+     "featured_artists": [],
+     "primary_artist": {
+      "api_path": "/artists/181",
+      "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+      "id": 181,
+      "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Bob Dylan",
+      "url": "https://genius.com/artists/Bob-dylan"
+     },
+     "primary_artists": [
+      {
+       "api_path": "/artists/181",
+       "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+       "id": 181,
+       "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bob Dylan",
+       "url": "https://genius.com/artists/Bob-dylan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "relationship_type": "translation_of",
+   "type": "translation_of",
+   "url": null,
+   "songs": []
+  },
+  {
+   "relationship_type": "translations",
+   "type": "translations",
+   "url": null,
+   "songs": []
+  }
+ ],
+ "translation_songs": [],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/181",
+   "header_image_url": "https://images.genius.com/e87fb11dd7f33cc7fd1a8915ad36f7c9.1000x667x1.png",
+   "id": 181,
+   "image_url": "https://images.genius.com/a94817af6c91a49c07fad51829d30f4e.640x640x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Dylan",
+   "url": "https://genius.com/artists/Bob-dylan"
+  }
+ ],
+ "artist": "Bob Dylan",
+ "lyrics": "103 ContributorsTangled Up in Blue Lyrics\nEarly one morning the sun was shining\nI was laying in bed\nWondering if she'd changed at all\nIf her hair was still red\nHer folks they said our lives together\nSure was going to be rough\nThey never did like Mama's homemade dress\nPapa's bankbook wasn't big enough\nAnd I was standing on the side of the road\nRain falling on my shoes\nHeading out for the East Coast\nLord knows I've paid some dues\nGetting through\nTangled up in blue\n\nShe was married when we first met\nSoon to be divorced\nI helped her out of a jam, I guess\nBut I used a little too much force\nWe drove that car as far as we could\nAbandoned it out west\nSplit up on a dark sad night\nBoth agreeing it was best\nShe turned around to look at me\nAs I was walking away\nI heard her say over my shoulder\n\"We'll meet again someday\nOn the avenue\"\nTangled up in blue\nSee Bob Dylan LiveGet tickets as low as $40You might also like\nI had a job in the great north woods\nWorking as a cook for a spell\nBut I never did like it all that much\nAnd one day the ax just fell\nSo I drifted down to New Orleans\nWhere I lucky was to be employed\nWorking for a while on a fishing boat\nRight outside of Delacroix\nBut all the while I was alone\nThe past was close behind\nI seen a lot of women\nBut she never escaped my mind\nAnd I just grew\nTangled up in blue\n\nShe was working in a topless place\nAnd I stopped in for a beer\nI just kept looking at the side of her face\nIn the spotlight, so clear\nAnd later on, when the crowd thinned out\nI was just about to do the same\nShe was standing there, in back of my chair\nSaid, \"Tell me, don't I know your name?\"\nI muttered something underneath my breath\nShe studied the lines on my face\nI must admit, I felt a little uneasy\nWhen she bent down to tie the laces\nOf my shoe\nTangled up in blue\nShe lit a burner on the stove\nAnd offered me a pipe\n\"I thought you'd never say hello,\" she said\n\"You look like the silent type\"\nThen she opened up a book of poems\nAnd handed it to me\nWritten by an Italian poet\nFrom the thirteenth century\nAnd every one of them words rang true\nAnd glowed like burning coal\nPouring off of every page\nLike it was written in my soul\nFrom me to you\nTangled up in blue\n\nI lived with them on Montague Street\nIn a basement down the stairs\nThere was music in the cafes at night\nAnd revolution in the air\nThen he started into dealing with slaves\nAnd something inside of him died\nShe had to sell everything she owned\nAnd froze up inside\nAnd when it finally, the bottom fell out\nI became withdrawn\nThe only thing I knew how to do\nWas to keep on keeping on\nLike a bird that flew\nTangled up in blue\nSo now I'm going back again\nI got to get to her somehow\nAll the people we used to know\nThey're an illusion to me now\nSome are mathematicians\nSome are carpenter's wives\nDon't know how it all got started\nI don't know what they're doing with their lives\nBut me, I'm still on the road\nA-heading for another joint\nWe always did feel the same\nWe just saw it from a different point\nOf view\nTangled up in blue27Embed\nEarly one morning the sun was shining\nI was laying in bed\nWondering if she'd changed at all\nIf her hair was still red\nHer folks they said our lives together\nSure was going to be rough\nThey never did like Mama's homemade dress\nPapa's bankbook wasn't big enough\nAnd I was standing on the side of the road\nRain falling on my shoes\nHeading out for the East Coast\nLord knows I've paid some dues\nGetting through\nTangled up in blue\n\nShe was married when we first met\nSoon to be divorced\nI helped her out of a jam, I guess\nBut I used a little too much force\nWe drove that car as far as we could\nAbandoned it out west\nSplit up on a dark sad night\nBoth agreeing it was best\nShe turned around to look at me\nAs I was walking away\nI heard her say over my shoulder\n\"We'll meet again someday\nOn the avenue\"\nTangled up in blue\n\nI had a job in the great north woods\nWorking as a cook for a spell\nBut I never did like it all that much\nAnd one day the ax just fell\nSo I drifted down to New Orleans\nWhere I lucky was to be employed\nWorking for a while on a fishing boat\nRight outside of Delacroix\nBut all the while I was alone\nThe past was close behind\nI seen a lot of women\nBut she never escaped my mind\nAnd I just grew\nTangled up in blue\n\nShe was working in a topless place\nAnd I stopped in for a beer\nI just kept looking at the side of her face\nIn the spotlight, so clear\nAnd later on, when the crowd thinned out\nI was just about to do the same\nShe was standing there, in back of my chair\nSaid, \"Tell me, don't I know your name?\"\nI muttered something underneath my breath\nShe studied the lines on my face\nI must admit, I felt a little uneasy\nWhen she bent down to tie the laces\nOf my shoe\nTangled up in blue\n\nShe lit a burner on the stove\nAnd offered me a pipe\n\"I thought you'd never say hello,\" she said\n\"You look like the silent type\"\nThen she opened up a book of poems\nAnd handed it to me\nWritten by an Italian poet\nFrom the thirteenth century\nAnd every one of them words rang true\nAnd glowed like burning coal\nPouring off of every page\nLike it was written in my soul\nFrom me to you\nTangled up in blue\n\nI lived with them on Montague Street\nIn a basement down the stairs\nThere was music in the cafes at night\nAnd revolution in the air\nThen he started into dealing with slaves\nAnd something inside of him died\nShe had to sell everything she owned\nAnd froze up inside\nAnd when it finally, the bottom fell out\nI became withdrawn\nThe only thing I knew how to do\nWas to keep on keeping on\nLike a bird that flew\nTangled up in blue\n\nSo now I'm going back again\nI got to get to her somehow\nAll the people we used to know\nThey're an illusion to me now\nSome are mathematicians\nSome are carpenter's wives\nDon't know how it all got started\nI don't know what they're doing with their lives\nBut me, I'm still on the road\nA-heading for another joint\nWe always did feel the same\nWe just saw it from a different point\nOf view\nTangled up in blue"
+}
