@@ -1,0 +1,3 @@
+.output_area pre, .output pre, .output_area .CodeMirror, .output_area .CodeMirror pre {
+    font-size: 10px !important;
+}
